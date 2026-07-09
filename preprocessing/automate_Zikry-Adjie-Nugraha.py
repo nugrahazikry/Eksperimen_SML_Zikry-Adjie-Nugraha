@@ -106,3 +106,5 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     preprocess_data(args.raw_path, args.output_path)
+
+# trigger CI run
