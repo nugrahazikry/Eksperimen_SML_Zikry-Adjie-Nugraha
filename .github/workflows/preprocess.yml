@@ -39,7 +39,7 @@ jobs:
         working-directory: preprocessing
         run: python "automate_Zikry-Adjie-Nugraha.py"
 
-        - name: Commit and push updated preprocessed dataset
+      - name: Commit and push updated preprocessed dataset
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
