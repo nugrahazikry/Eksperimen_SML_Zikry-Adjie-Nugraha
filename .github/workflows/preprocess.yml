@@ -10,6 +10,10 @@ on:
       - "preprocessing/automate_Zikry-Adjie-Nugraha.py"
   workflow_dispatch:
 
+concurrency:
+  group: preprocess-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
