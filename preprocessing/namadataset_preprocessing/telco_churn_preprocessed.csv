@@ -7031,3 +7031,4 @@ gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,Online
 0,0,1,1,11,0,0,1,0,0,0,0,0,1,29.6,346.45,0,True,False,False,True,False,False,False,False,True,False
 1,1,1,0,4,1,1,0,0,0,0,0,0,1,74.4,306.6,1,True,False,False,False,True,False,False,False,False,True
 1,0,0,0,66,1,0,1,0,1,1,1,1,1,105.65,6844.5,0,False,False,True,False,True,False,True,False,False,False
+1,0,0,0,66,1,0,1,0,1,1,1,1,1,105.65,6844.5,0,False,False,True,False,True,False,True,False,False,False
