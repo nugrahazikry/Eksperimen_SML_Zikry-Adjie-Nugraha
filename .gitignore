@@ -1,0 +1,15 @@
+# Secrets — JANGAN pernah commit
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
